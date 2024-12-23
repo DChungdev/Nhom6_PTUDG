@@ -2879,6 +2879,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyCount: 0
+  victoryImage: {fileID: 0}
+  victoryAudio: {fileID: 0}
+  nextSceneName: NextScene
 --- !u!4 &526691186
 Transform:
   m_ObjectHideFlags: 0
